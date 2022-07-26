@@ -1,0 +1,28 @@
+{
+  "name": "aoda-rest-api",
+  "version": "1.0.0",
+  "description": "A simple JSON database to deploy data intended for Aoda mobila App built with flutter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mbaka",
+    "JohnPaul",
+    "JohnPaul",
+    "Mbaka",
+    "JohnPaul",
+    "json-server",
+    "heroku",
+    "node.js",
+    "node",
+    "REST",
+    "API",
+    "API"
+  ],
+  "author": "JohnPaul Mbaka",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
