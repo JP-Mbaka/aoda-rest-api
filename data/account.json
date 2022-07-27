@@ -3,7 +3,7 @@
         {
             "id": "1",
             "phoneNumber": "09034526388",
-            "transaction": "transfer",
+            "transaction": "Transfer",
             "amount": "2000",
             "narration": "",
             "date":""
@@ -35,7 +35,7 @@
         {
             "id": "5",
             "phoneNumber": "09133950084",
-            "transaction": "transfer",
+            "transaction": "Transfer",
             "amount": "2000",
             "narration": "",
             "date":""
@@ -43,7 +43,7 @@
         {
             "id": "6",
             "phoneNumber": "09133950084",
-            "transaction": "withdrawal",
+            "transaction": "Withdrawal",
             "amount": "2000",
             "narration": "",
             "date":""
@@ -51,7 +51,7 @@
         {
             "id": "7",
             "phoneNumber": "09133950084",
-            "transaction": "deposit",
+            "transaction": "Deposit",
             "amount": "2000",
             "narration": "",
             "date":""
@@ -59,7 +59,7 @@
         {
             "id": "8",
             "phoneNumber": "09133950084",
-            "transaction": "deposit",
+            "transaction": "Deposit",
             "amount": "2000",
             "narration": "",
             "date":""
@@ -67,7 +67,7 @@
         {
             "id": "9",
             "phoneNumber": "09133950084",
-            "transaction": "deposit",
+            "transaction": "Deposit",
             "amount": "2000",
             "narration": "",
             "date":""
@@ -75,7 +75,7 @@
         {
             "id": "10",
             "phoneNumber": "09133950084",
-            "transaction": "transfer",
+            "transaction": "Transfer",
             "amount": "2000",
             "narration": "",
             "date":""
